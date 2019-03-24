@@ -1,1 +1,2 @@
 First test in GIT
+"Adding some notes"
